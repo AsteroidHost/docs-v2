@@ -1,0 +1,9 @@
+{
+    "label": "Troubleshooting",
+    "position": 1,
+    "link": {
+      "type": "generated-index",
+      "description": "Helping users identify why their server isn't working."
+    }
+}
+  
