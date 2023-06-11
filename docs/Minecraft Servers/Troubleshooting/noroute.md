@@ -34,11 +34,18 @@ If it continues, contact support on [Discord](https://discord.gg/rdDaUW3Wt6) and
 This malware is installed via either an infected JAR file or the original bad actor. Once it is run, it infects all other major JAR files on the system. It tries to run an "Updater" and fails, crashing the server.
 
 ## How to tell if a JAR is infected
+### Method 1
 1. [Click Here](https://github.com/deathmarine/Luyten/releases/tag/v0.5.4_Rebuilt_with_Latest_depenencies) to download the Open-Source Java Decompiler **Luyten**.
 2. Run Luyten when it is done downloading, and drag and drop the JAR file into the window.
 3. Scroll to the bottom and if you see "Updater.class", the JAR file is infected. Dispose of it immediately.
 
+### Method 2
+1. Download your plugins folder, and server JAR files. Delete your cache folder.
+2. [Click Here](https://github.com/overwolf/jar-infection-scanner/releases/download/1.0.1/jar-infection-scanner.zip) to download the Open-Source Scanner Tool by **CurseForge**.
+3. Run the .exe when it is done downloading.
+4. Point the application to scan your downloaded plugins folder.
+5. Remove and replace any JAR that is infected with one from a trustworthy source.
 
 ---
 
-*Last updated: December 28, 2022.*
+*Last updated: June 11, 2023.*
