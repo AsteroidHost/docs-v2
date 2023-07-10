@@ -3,7 +3,7 @@ sidebar_position: 12
 ---
 
 # Split Tab
-The eleventh tab on the top navigation bar. It is where you manage your Server Splitter.
+The eleventh tab on the top navigation bar. It is where you manage your Server Splitter. This is no longer available.
 
 ---
 
